@@ -11,6 +11,7 @@ make it look good. I also struggled a bit with making the flower look like a FLO
 the ellipseMode to CORNER, to make it look good. Overall, I had an easy time with this assignment.
 
 Code: https://editor.p5js.org/StevenCude67/sketches/i4R5I-LRU
+
 -----------------------------------------------------------------------------------------------------------
 Assignment 4.2: For this assignment, I had to take the sprite made in the previous assignment and turn
 it into a 2D pattern. This pattern had to consist of multiple srites. Since my call back only changed 
@@ -19,6 +20,7 @@ not make it work. Suprisngly, I figured it out quickly for this assignment. I ha
 the initial pattern, but once I did, I quickly reapted the pattern across the screen using loops in draw().
 
 Code: https://editor.p5js.org/StevenCude67/sketches/310TQXsGz
+
 -----------------------------------------------------------------------------------------------------------
 Assignment 4.3: For this assignment I had to duplicate assignment 4.2 and make it have random attributes 
 so that eevrytime you refresh the code, it is different. I could either change the existing sprite and/or
