@@ -28,8 +28,8 @@ I had the colors of all 3 flowers change from different shades of red and pink, 
 in the middle random sizes evertime (scaled 0.5 to 1). This defintly made it different everytime and I'm 
 happy I changed color and size instead. I also changed the background from pink to a custom light green color
 
-Code: https://editor.p5js.org/StevenCude67/sketches/XYkJmi-ta
+Code noLoop(): https://editor.p5js.org/StevenCude67/sketches/XYkJmi-ta
 
-Here's a version where the colors constanly change (noLoop() removed and added frameRate(5)
-Code: https://editor.p5js.org/StevenCude67/sketches/Om2-glHk9
+Code frameRate(5): https://editor.p5js.org/StevenCude67/sketches/Om2-glHk9
+
 -----------------------------------------------------------------------------------------------------------
