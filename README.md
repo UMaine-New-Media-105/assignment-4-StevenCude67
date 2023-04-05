@@ -35,3 +35,13 @@ Code noLoop(): https://editor.p5js.org/StevenCude67/sketches/XYkJmi-ta
 Code frameRate(5): https://editor.p5js.org/StevenCude67/sketches/Om2-glHk9
 
 -----------------------------------------------------------------------------------------------------------
+Assignment 4.4: For this assignment I had to make the random elements from the previous assignment, a set 
+array so they change each time the drawFlower() appears. This assignment was realitivly simple, I just had
+to change the loop to change what part of the array it was I had with the i (or j) of the loop. After chang-
+ing from random to a set number, I just had to fige out how I wanted it to look astheticly. I changed the 
+size of the middle flowers only and i went with a bunch of diffirent size, but eventually setteled on 0.6
+to 1.1. I made all the flowers go from darkred to pink. I think it ended up looking pretty cool
+
+Code: https://editor.p5js.org/StevenCude67/sketches/4f_nS3MzY
+
+-----------------------------------------------------------------------------------------------------------
